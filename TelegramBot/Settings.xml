@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AdminChatId>Id чата для отправки результатов</AdminChatId>
+  <WriteChatId>False</WriteChatId>
+  <Token>токен</Token>
+  <PathToDocWithResults>путь к файлу с резульатами</PathToDocWithResults>
+  <PathToXmlWithUserPolls>путь к файлу xml с опросами пользователей</PathToXmlWithUserPolls>
+  <PathToXmlWithPoll>путь к файлу с опросом</PathToXmlWithPoll>
+</Settings>
